@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TemperatureCon_FXArpan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TemperatureCon_FXArpan_jar</output-path>
+    <root id="archive" name="TemperatureCon_FXArpan.jar">
+      <element id="module-output" name="TemperatureCon_FXArpan" />
+    </root>
+  </artifact>
+</component>
